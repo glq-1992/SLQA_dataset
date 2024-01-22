@@ -11,13 +11,13 @@ testing set with 705 videos.
 ### <u>Download:</u>
 &emsp;The SLQA dataset is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the link below:
 
-**Baidu Netdisk:** https://pan.baidu.com/s/1EHIYLp_uJLxe2-fNtTrwoA [password: jia1]
+**Baidu Netdisk:** https://pan.baidu.com/s/1o08NusKAbDrLx53nY8nF6Q [password: gikq]
 
 **OneDrive:** https://tjueducn-my.sharepoint.com/:f:/g/personal/lqgao_tju_edu_cn/EhnANKFvKfxBi3ous6mqqvcB_7_sdhQNLeBsiVlBCc91dg?e=qpQiqL
 
 
 ### <u>The code of SLQA framework is as follows:</u>
 
-**Baidu Netdisk:** https://pan.baidu.com/s/1Wdd8cmXUwybCFGVSoX7wmA [password: v3cd]
+**Baidu Netdisk:** https://github.com/glq-1992/SLQA_code
 
 
