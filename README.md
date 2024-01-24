@@ -13,11 +13,10 @@ testing set with 705 videos.
 
 **Baidu Netdisk:** https://pan.baidu.com/s/1o08NusKAbDrLx53nY8nF6Q [password: gikq]
 
-**OneDrive:** https://tjueducn-my.sharepoint.com/:f:/g/personal/lqgao_tju_edu_cn/EhnANKFvKfxBi3ous6mqqvcB_7_sdhQNLeBsiVlBCc91dg?e=qpQiqL
+**OneDrive:** https://tjueducn-my.sharepoint.com/:f:/g/personal/lqgao_tju_edu_cn/Em81xZalQ6ZHl9Bg0GTIDRYB7HshRN39nxPrURTB2DXIBw
 
 
 ### <u>The code of SLQA framework is as follows:</u>
 
 **Baidu Netdisk:** https://github.com/glq-1992/SLQA_code
-
 
